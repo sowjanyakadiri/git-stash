@@ -1,2 +1,6 @@
 this is the new file 
+<<<<<<< HEAD
 iam editing stash concepts 
+=======
+iam editing central repo github
+>>>>>>> 7e47f420eca98f651c86dc51ba8a20f0b9840295
