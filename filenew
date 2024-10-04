@@ -1,3 +1,7 @@
 hellow
 this is the new file
+<<<<<<< HEAD
 iam making changes by suing stash concepts
+=======
+making some changes in central repo github
+>>>>>>> a54701faa2a0383ed8f3773eb438b5f40304c008
